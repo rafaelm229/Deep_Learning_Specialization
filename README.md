@@ -8,7 +8,12 @@
 
 This five-course specialization taught by Andrew Ng  on Coursera is one of the most famous Machine Learning Courses online. here you will find All My Notes and Assignments from this Specialization.
 
-[TOC]
+## courses 
+* Neural Networks and Deep Learning
+* Improving Deep Neural Networks
+* Structuring Machine Learning Projects
+* Convolutional Neural Networks
+*  Sequence Models
 
 
 
